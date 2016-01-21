@@ -1,0 +1,3 @@
+rootProject.name = 'DouBanMovie_RN'
+
+include ':app'
